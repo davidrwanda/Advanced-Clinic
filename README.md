@@ -25,11 +25,16 @@
 
 # Regitser new patients
 
-`- FullName,
+`- Patient's First aname,
 
-- Age,
+- Patient's Last Name,
+- Age(Date of Birth),
+- Provnce,
+- District,
+- Sector,
+- Cell,
 - Phone,
-- Email (if any)
+- NID,
 - Resident Place,
 - Insurance type(pre-filled from insurance cheker)
   `
@@ -63,7 +68,7 @@ with Doctors assigned to them.
 
 # Create Account
 
-`- fullName,
+` - fullName,
 
 - phone
 - email,
@@ -80,7 +85,7 @@ with Doctors assigned to them.
 
 # Create Users
 
-`- First Name,
+` - First Name,
 
 - Last Name,
 - Phone,
