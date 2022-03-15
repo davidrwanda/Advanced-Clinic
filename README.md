@@ -8,25 +8,22 @@
 
 # Create an Account
 
-`- fullName,
-
-- phone
-- email,
-- password
-- confirmPassword
-  `
+  - fullName,
+  - phone
+  - email,
+  - password
+  - confirmPassword
+  
 
 # Login into the System
 
-`- Email,
-
-- Password
-  `
+  - Email,
+  - Password
+  
 
 # Regitser new patients
 
-`- Patient's First aname,
-
+- Patient's First aname,
 - Patient's Last Name,
 - Age(Date of Birth),
 - Provnce,
@@ -37,16 +34,15 @@
 - NID,
 - Resident Place,
 - Insurance type(pre-filled from insurance cheker)
-  `
-
+  
 # Search Patients
 
-`**Search By**
+**Search By**
 
 - Name,
 - phone,
 - Eamil
-  `
+  
 
 # Update/Edit Patient's Profile
 
@@ -58,42 +54,38 @@
 
 # View Avalilable Appointments
 
-`- List of all patients's appointments
-with Doctors assigned to them.
+- List of all patients's appointments
+ with Doctors assigned to them.
 
 - List of Available Doctors
-  `
+  
 
 # FUNCTIONAL REQUIREMENTS FOR ADMIN
 
 # Create Account
 
-` - fullName,
-
-- phone
-- email,
-- password
-- confirmPassword
-  `
+  - fullName,
+  - phone
+  - email,
+  - password
+  - confirmPassword
+  
 
 # Login into the System
 
-`- Email,
-
+- Email,
 - Password
-  `
-
+  
 # Create Users
 
-` - First Name,
-
-- Last Name,
-- Phone,
-- Email,
-- Select Role from Generated List
-- EmploymentID,
-- Password,
-- Confirm PAssword
+  - First Name,
+  - Last Name,
+  - Phone,
+  - Email,
+  - Select Role from Generated List
+  - EmploymentID,
+  - Password,
+  - Confirm PAssword
   `
 
 # Update/Edit Patient's Profile
@@ -103,3 +95,5 @@ with Doctors assigned to them.
 # Have a look on a full document
 
 [Google Doc](https://docs.google.com/document/d/1JymkQFIV1tsR2gUlf2cR4HCc-IiUJ3QVj_prCG1yP1s/edit)
+
+[Jeanndo](https://github.com/Jeanndo)
